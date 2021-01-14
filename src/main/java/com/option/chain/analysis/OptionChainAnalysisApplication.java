@@ -8,7 +8,6 @@ public class OptionChainAnalysisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OptionChainAnalysisApplication.class, args);
-		//check for commit
 	}
 
 }
